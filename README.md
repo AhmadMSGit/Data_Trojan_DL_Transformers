@@ -75,15 +75,3 @@ If you use this dataset in your research, please cite the following:
 ---
 
 For questions or contributions, please email ahmad.m.saber@ieee.org or dkundur@comm.utoronto.ca
-
-
----
-
-## ⚠️ Important Note
-
-Due to GitHub's file size limitations, **a portion of the dataset could not be uploaded here**.  
-You can access the full dataset from Google Drive:
-
-🔗 **[Complete Dataset on Google Drive](https://drive.google.com/drive/folders/1s6XiRNGMsqEqWaiSUVn4D7lv-GEOTWjN?usp=sharing)**
-
----
