@@ -69,7 +69,7 @@ This dataset is ideal for developing and benchmarking:
 
 If you use this dataset in your research, please cite the following:
 
-> Ahmad Mohammad Saber, Hany E. Z. Farag, Amr Youssef and Deepa Kundur, “A Model-Independent Trojan Attack on Deep Learning-Based FDIA Detection in Smart Grid Protection Systems”, Submitted, 2025.  
+> Ahmad Mohammad Saber, Hany E. Z. Farag, Amr Youssef and Deepa Kundur, “A Model-Independent Trojan Attack on Deep Learning-Based FDIA Detection in Smart Grid Protection Systems”, in IEEE Transactions on Instrumentation and Measurement, 2025.  
 > Dataset: [https://github.com/AhmadMSGit/Data](https://github.com/AhmadMSGit/Data)
 
 ---
