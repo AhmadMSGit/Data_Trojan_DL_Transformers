@@ -76,7 +76,7 @@ If you use this dataset in your research, please cite the following:
 
 ## 📄 Dataset License
 
-This dataset is released for academic and non-commercial research use only. Commercial use is not allowed without prior written approval from the first author (Ahmad Mohammad Saber) and last author (Deepa Kundur).
+>This dataset is released for academic and non-commercial research use only. Commercial use is not allowed without prior written approval from the first author (Ahmad Mohammad Saber) and last author (Deepa Kundur).
 ---
 
 For questions or contributions, please email ahmad.m.saber@ieee.org or dkundur@comm.utoronto.ca
